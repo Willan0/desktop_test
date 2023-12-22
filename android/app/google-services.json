@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445443035436",
+    "project_id": "fibasetest-ecdbd",
+    "storage_bucket": "fibasetest-ecdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445443035436:android:a6749db64d7a8c85329c89",
+        "android_client_info": {
+          "package_name": "com.example.desktop_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3vWAu4ttiSb9nS_4tE99GwGmcxlLSKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
